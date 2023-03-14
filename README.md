@@ -6,3 +6,6 @@ Someday i discovered Microsoft Rewards to get robux (i know don't hurt me pls) a
 
 ## Wow, only works on Windows
 ## Aaaand closes this trash browser at the end!
+
+# How to run Python script?
+First, install the pyautogui module using command `pip install pyautogui` in command promt. And you good
