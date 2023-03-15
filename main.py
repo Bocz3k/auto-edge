@@ -10,7 +10,7 @@ excluded = []
 letters = list(string.ascii_lowercase)
 sleep(2)
 print("Microsoft Edge opened")
-for _ in range(10):
+for _ in range(11):
     for _ in range(len(letters)):
         choice = random.choice(letters)
         if choice not in excluded:
