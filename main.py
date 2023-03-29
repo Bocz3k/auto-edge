@@ -8,9 +8,8 @@ print("Please don't click during the process\n")
 subprocess.run(r'C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe')
 print("Starting to open Microsoft Edge")
 excluded = []
-letters = list(string.ascii_lowercase)
-letters.extend(list(string.))
-sleep(1)
+letters = list(string.ascii_letters)
+sleep(0.5)
 print("Microsoft Edge opened")
 for _ in range(33):
     for _ in range(len(letters)):
